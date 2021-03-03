@@ -26,7 +26,7 @@ import com.restfb.webhook.Webhook;
 public class FbChat extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
-	private String accessToken = "EAANSDPn8xgoBANakUJZAMMhNlwQxzrawTKiZCtb6wzFFAw0Xp6PZAR2kOmbpNqeTVOO5sSUbLWZCEEh5QIeNnYbdCHtkeAckeATUmy8xxRf4zBGXBOU4OrUSZBAVXmM8SeEJ0c1lAzdUIuQZAzCZCikEycqy8FMwI9kXjMWhMO9S4BIzrhyzlKA";
+	private String accessToken = "EAANSDPn8xgoBACrWLSPgPgfoA7B0nKwbZACalykSOiqtVUjei3ZC83hYpDxKV08fZCVZC7O3gkK4Y5kJUsRflP9VTBKMTVB6sz5cdowpxRbqFlkdJ12jCGv6R0T5feUZA9iYcpLZCV8OuBAGH3ATgxxqZBkwHljRpsNtMF4rjuwrA5kVyqyftAh";
 	private String verifyToken = "schedulePTIT";
 	public FbChat() {
 		super();
